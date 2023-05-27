@@ -11,7 +11,7 @@ function Education() {
 
   const education = [
     {
-      "title": "B-Tech In Computer Engineering",
+      "title": "B-Tech In Mechanical Engineering",
       "organization": "MIT Academy Of Engineering, Pune",
       "organizationLogo": logos.mit,
       "duration": "Aug 2019 - Present",
@@ -30,7 +30,7 @@ function Education() {
     },
     {
       "title": "Student",
-      "organization": "Oasis's English School, Parbhani",
+      "organization": "Scottish Academy School, Parbhani",
       "organizationLogo": logos.keshavraj,
       "duration": "May 2007 - May 2017",
       "description": [

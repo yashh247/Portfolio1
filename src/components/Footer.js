@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Sankalp Ghodke</h3>
+          <h3>Designed and Developed by Yash Toshniwal</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SG</h3>
+          <h3>Copyright © {year} YT</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/sankalpghodke1"
+                href="https://github.com/yashh247"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>            
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sankalpghodke/"
+                href="https://www.linkedin.com/in/yash-toshniwal-0869a31a3/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sankalp_ghodke/"
+                href="https://www.instagram.com/yash_toshniwal_247/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

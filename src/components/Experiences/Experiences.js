@@ -12,11 +12,11 @@ function Experiences() {
   const experiences = [
     {
       "title": "Intern",
-      "organization": "GVL Electro Controls Pvt Ltd",
+      "organization": "Enerture Pvt Ltd",
       "organizationLogo": logos.celebel,
-      "duration": "1 June 2022 - 1 July 2022",
+      "duration": "1 June 2022 - 31 July 2022",
       "description": [],
-      "skills": "Circuit Design,AutoCAD,Design, Control System, Process Automation,Machine Automation",
+      "skills": "AutoCAD Design, Solar installation, Process Automation, Machine Automation",
       "experienceType": "Internship",
     },
   ]
